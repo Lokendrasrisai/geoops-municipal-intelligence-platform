@@ -1,0 +1,5 @@
+feature_index,asset_id,review_score,review_priority,issue_count,issue_categories
+2,HYD-002,36,Critical Review,5,"Duplicate Asset ID, Invalid Condition, Invalid Diameter, Missing Geometry, Unrealistic Install Year"
+1,HYD-002,35,Critical Review,5,"Duplicate Asset ID, Future Install Year, Missing Condition, Missing Inspection Date, Suspicious Diameter"
+3,,19,High Review,3,"Missing Diameter, Missing Inspection Date, Missing Install Year"
+3,row_3,10,Medium Review,1,Missing Asset ID
