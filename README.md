@@ -333,6 +333,4 @@ The platform is intended to complement existing ArcGIS workflows and help GIS pr
 
 Lokendra Sri Sai Bethu
 
-Computer Science Graduate Student
-
 GeoAI • GIS Operations • Municipal Intelligence • Infrastructure Analytics
