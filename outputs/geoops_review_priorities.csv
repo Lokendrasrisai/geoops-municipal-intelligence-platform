@@ -1,5 +1,79 @@
 feature_index,asset_id,review_score,review_priority,issue_count,issue_categories
-2,HYD-002,36,Critical Review,5,"Duplicate Asset ID, Invalid Condition, Invalid Diameter, Missing Geometry, Unrealistic Install Year"
-1,HYD-002,35,Critical Review,5,"Duplicate Asset ID, Future Install Year, Missing Condition, Missing Inspection Date, Suspicious Diameter"
-3,,19,High Review,3,"Missing Diameter, Missing Inspection Date, Missing Install Year"
-3,row_3,10,Medium Review,1,Missing Asset ID
+147,HYD-0148,16,High Review,2,"Missing Condition, Missing Geometry"
+33,,16,High Review,2,"Duplicate Asset ID, Missing Condition"
+135,,16,High Review,2,"Duplicate Asset ID, Missing Condition"
+118,,13,High Review,2,"Duplicate Asset ID, Invalid Condition"
+16,,13,High Review,2,"Duplicate Asset ID, Invalid Condition"
+57,HYD-0058,12,High Review,2,"Future Install Year, Missing Condition"
+129,HYD-0130,12,High Review,2,"Missing Condition, Missing Inspection Date"
+51,HYD-0052,12,High Review,2,"Missing Condition, Missing Inspection Date"
+36,HYD-0037,10,Medium Review,1,Missing Geometry
+67,row_67,10,Medium Review,1,Missing Asset ID
+101,row_101,10,Medium Review,1,Missing Asset ID
+50,row_50,10,Medium Review,1,Missing Asset ID
+50,,10,Medium Review,1,Duplicate Asset ID
+110,HYD-0111,10,Medium Review,1,Missing Geometry
+101,,10,Medium Review,1,Duplicate Asset ID
+84,,10,Medium Review,1,Duplicate Asset ID
+73,HYD-0074,10,Medium Review,1,Missing Geometry
+84,row_84,10,Medium Review,1,Missing Asset ID
+67,,10,Medium Review,1,Duplicate Asset ID
+33,row_33,10,Medium Review,1,Missing Asset ID
+118,row_118,10,Medium Review,1,Missing Asset ID
+135,row_135,10,Medium Review,1,Missing Asset ID
+16,row_16,10,Medium Review,1,Missing Asset ID
+28,HYD-0029,9,Medium Review,2,"Future Install Year, Invalid Condition"
+123,HYD-0124,9,Medium Review,2,"Missing Condition, Suspicious Diameter"
+142,HYD-0143,9,Medium Review,2,"Invalid Condition, Missing Inspection Date"
+64,HYD-0065,9,Medium Review,2,"Invalid Condition, Missing Inspection Date"
+90,HYD-0091,6,Medium Review,1,Missing Inspection Date
+93,HYD-0094,6,Medium Review,1,Missing Condition
+99,HYD-0100,6,Medium Review,1,Missing Condition
+87,HYD-0088,6,Medium Review,1,Missing Condition
+86,HYD-0087,6,Medium Review,1,Future Install Year
+3,HYD-0004,6,Medium Review,1,Missing Condition
+103,HYD-0104,6,Medium Review,1,Missing Inspection Date
+105,HYD-0106,6,Medium Review,1,Missing Condition
+111,HYD-0112,6,Medium Review,1,Missing Condition
+116,HYD-0117,6,Medium Review,1,Missing Inspection Date
+117,HYD-0118,6,Medium Review,1,Missing Condition
+141,HYD-0142,6,Medium Review,1,Missing Condition
+144,HYD-0145,6,Medium Review,1,Future Install Year
+115,HYD-0116,6,Medium Review,1,Future Install Year
+77,HYD-0078,6,Medium Review,1,Missing Inspection Date
+39,HYD-0040,6,Medium Review,1,Missing Condition
+27,HYD-0028,6,Medium Review,1,Missing Condition
+9,HYD-0010,6,Medium Review,1,Missing Condition
+12,HYD-0013,6,Medium Review,1,Missing Inspection Date
+75,HYD-0076,6,Medium Review,1,Missing Condition
+15,HYD-0016,6,Medium Review,1,Missing Condition
+81,HYD-0082,6,Medium Review,1,Missing Condition
+21,HYD-0022,6,Medium Review,1,Missing Condition
+69,HYD-0070,6,Medium Review,1,Missing Condition
+38,HYD-0039,6,Medium Review,1,Missing Inspection Date
+63,HYD-0064,6,Medium Review,1,Missing Condition
+45,HYD-0046,6,Medium Review,1,Missing Condition
+25,HYD-0026,6,Medium Review,1,Missing Inspection Date
+34,HYD-0035,3,Low Review,1,Invalid Condition
+30,HYD-0031,3,Low Review,1,Suspicious Diameter
+82,HYD-0083,3,Low Review,1,Invalid Condition
+124,HYD-0125,3,Low Review,1,Invalid Condition
+130,HYD-0131,3,Low Review,1,Invalid Condition
+136,HYD-0137,3,Low Review,1,Invalid Condition
+10,HYD-0011,3,Low Review,1,Invalid Condition
+22,HYD-0023,3,Low Review,1,Invalid Condition
+112,HYD-0113,3,Low Review,1,Invalid Condition
+40,HYD-0041,3,Low Review,1,Invalid Condition
+46,HYD-0047,3,Low Review,1,Invalid Condition
+106,HYD-0107,3,Low Review,1,Invalid Condition
+52,HYD-0053,3,Low Review,1,Invalid Condition
+58,HYD-0059,3,Low Review,1,Invalid Condition
+61,HYD-0062,3,Low Review,1,Suspicious Diameter
+100,HYD-0101,3,Low Review,1,Invalid Condition
+94,HYD-0095,3,Low Review,1,Invalid Condition
+70,HYD-0071,3,Low Review,1,Invalid Condition
+92,HYD-0093,3,Low Review,1,Suspicious Diameter
+88,HYD-0089,3,Low Review,1,Invalid Condition
+76,HYD-0077,3,Low Review,1,Invalid Condition
+4,HYD-0005,3,Low Review,1,Invalid Condition
+148,HYD-0149,3,Low Review,1,Invalid Condition

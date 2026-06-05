@@ -1,15 +1,91 @@
 feature_index,asset_id,issue_category,issue_description,severity,recommended_action
-3,row_3,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
-1,HYD-002,Duplicate Asset ID,Asset ID HYD-002 appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
-2,HYD-002,Duplicate Asset ID,Asset ID HYD-002 appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
-2,HYD-002,Missing Geometry,Feature has no usable geometry.,Critical,Verify or recreate geometry before using this record in GIS workflows.
-1,HYD-002,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
-2,HYD-002,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
-1,HYD-002,Future Install Year,Install year 2035 is later than current year.,High,Verify install year from source records.
-2,HYD-002,Unrealistic Install Year,Install year 1700 appears unrealistic.,High,Verify install year from historical records.
-3,,Missing Install Year,Install year is missing.,Medium,Populate install year if available from source records.
-1,HYD-002,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
-3,,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
-1,HYD-002,Suspicious Diameter,Diameter value 999.0 appears unusual.,Medium,Verify diameter against utility records.
-2,HYD-002,Invalid Diameter,Diameter value 'unknown' is not numeric.,Medium,Standardize diameter as a numeric value.
-3,,Missing Diameter,Diameter is missing for utility asset.,High,Populate diameter from source records or field inventory.
+16,row_16,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
+33,row_33,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
+50,row_50,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
+67,row_67,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
+84,row_84,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
+101,row_101,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
+118,row_118,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
+135,row_135,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
+16,,Duplicate Asset ID,Asset ID  appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+33,,Duplicate Asset ID,Asset ID  appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+50,,Duplicate Asset ID,Asset ID  appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+67,,Duplicate Asset ID,Asset ID  appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+84,,Duplicate Asset ID,Asset ID  appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+101,,Duplicate Asset ID,Asset ID  appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+118,,Duplicate Asset ID,Asset ID  appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+135,,Duplicate Asset ID,Asset ID  appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+36,HYD-0037,Missing Geometry,Feature has no usable geometry.,Critical,Verify or recreate geometry before using this record in GIS workflows.
+73,HYD-0074,Missing Geometry,Feature has no usable geometry.,Critical,Verify or recreate geometry before using this record in GIS workflows.
+110,HYD-0111,Missing Geometry,Feature has no usable geometry.,Critical,Verify or recreate geometry before using this record in GIS workflows.
+147,HYD-0148,Missing Geometry,Feature has no usable geometry.,Critical,Verify or recreate geometry before using this record in GIS workflows.
+3,HYD-0004,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+9,HYD-0010,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+15,HYD-0016,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+21,HYD-0022,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+27,HYD-0028,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+33,,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+39,HYD-0040,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+45,HYD-0046,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+51,HYD-0052,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+57,HYD-0058,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+63,HYD-0064,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+69,HYD-0070,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+75,HYD-0076,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+81,HYD-0082,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+87,HYD-0088,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+93,HYD-0094,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+99,HYD-0100,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+105,HYD-0106,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+111,HYD-0112,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+117,HYD-0118,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+123,HYD-0124,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+129,HYD-0130,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+135,,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+141,HYD-0142,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+147,HYD-0148,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+4,HYD-0005,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+10,HYD-0011,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+16,,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+22,HYD-0023,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+28,HYD-0029,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+34,HYD-0035,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+40,HYD-0041,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+46,HYD-0047,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+52,HYD-0053,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+58,HYD-0059,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+64,HYD-0065,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+70,HYD-0071,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+76,HYD-0077,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+82,HYD-0083,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+88,HYD-0089,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+94,HYD-0095,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+100,HYD-0101,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+106,HYD-0107,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+112,HYD-0113,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+118,,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+124,HYD-0125,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+130,HYD-0131,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+136,HYD-0137,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+142,HYD-0143,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+148,HYD-0149,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+28,HYD-0029,Future Install Year,Install year 2035 is later than current year.,High,Verify install year from source records.
+57,HYD-0058,Future Install Year,Install year 2035 is later than current year.,High,Verify install year from source records.
+86,HYD-0087,Future Install Year,Install year 2035 is later than current year.,High,Verify install year from source records.
+115,HYD-0116,Future Install Year,Install year 2035 is later than current year.,High,Verify install year from source records.
+144,HYD-0145,Future Install Year,Install year 2035 is later than current year.,High,Verify install year from source records.
+12,HYD-0013,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+25,HYD-0026,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+38,HYD-0039,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+51,HYD-0052,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+64,HYD-0065,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+77,HYD-0078,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+90,HYD-0091,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+103,HYD-0104,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+116,HYD-0117,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+129,HYD-0130,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+142,HYD-0143,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+30,HYD-0031,Suspicious Diameter,Diameter value 999.0 appears unusual.,Medium,Verify diameter against utility records.
+61,HYD-0062,Suspicious Diameter,Diameter value 999.0 appears unusual.,Medium,Verify diameter against utility records.
+92,HYD-0093,Suspicious Diameter,Diameter value 999.0 appears unusual.,Medium,Verify diameter against utility records.
+123,HYD-0124,Suspicious Diameter,Diameter value 999.0 appears unusual.,Medium,Verify diameter against utility records.
