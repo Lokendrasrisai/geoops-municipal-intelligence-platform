@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.7
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-002",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID HYD-002 appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.7
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-002",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.7
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-002",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.7
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-002",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.7
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-002",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    }
+  ]
+}
