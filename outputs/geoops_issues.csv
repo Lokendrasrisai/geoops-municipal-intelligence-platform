@@ -1,0 +1,15 @@
+feature_index,asset_id,issue_category,issue_description,severity,recommended_action
+3,row_3,Missing Asset ID,Asset has no unique identifier.,Critical,"Assign a unique asset ID before publishing, migration, or client delivery."
+1,HYD-002,Duplicate Asset ID,Asset ID HYD-002 appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+2,HYD-002,Duplicate Asset ID,Asset ID HYD-002 appears more than once.,Critical,Verify whether records are duplicates or whether asset IDs need correction.
+2,HYD-002,Missing Geometry,Feature has no usable geometry.,Critical,Verify or recreate geometry before using this record in GIS workflows.
+1,HYD-002,Missing Condition,Asset condition is missing.,High,Review inspection records or field data to populate condition.
+2,HYD-002,Invalid Condition,Condition value 'Broken' is not recognized.,Medium,Standardize condition values to accepted categories.
+1,HYD-002,Future Install Year,Install year 2035 is later than current year.,High,Verify install year from source records.
+2,HYD-002,Unrealistic Install Year,Install year 1700 appears unrealistic.,High,Verify install year from historical records.
+3,,Missing Install Year,Install year is missing.,Medium,Populate install year if available from source records.
+1,HYD-002,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+3,,Missing Inspection Date,Last inspection date is missing.,High,Review field inspection records and populate inspection date.
+1,HYD-002,Suspicious Diameter,Diameter value 999.0 appears unusual.,Medium,Verify diameter against utility records.
+2,HYD-002,Invalid Diameter,Diameter value 'unknown' is not numeric.,Medium,Standardize diameter as a numeric value.
+3,,Missing Diameter,Diameter is missing for utility asset.,High,Populate diameter from source records or field inventory.
