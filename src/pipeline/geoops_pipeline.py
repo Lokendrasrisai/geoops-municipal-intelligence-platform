@@ -18,103 +18,50 @@ def run_geoops_pipeline(
     output_dir: str = "outputs",
     export_issue_layer: bool = True,
 ) -> dict:
-
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
     issues_df = run_geoqa(df)
+    issue_summary = summarize_issues(issues_df)
 
-    issue_summary = summarize_issues(
-        issues_df
-    )
-
-    priorities_df = (
-        assign_feature_review_priorities(
-            issues_df
-        )
-    )
-
-    readiness_summary = (
-        build_readiness_summary(
-            issues_df
-        )
-    )
+    priorities_df = assign_feature_review_priorities(issues_df)
+    readiness_summary = build_readiness_summary(issues_df)
 
     report = build_report(
-        readiness_summary,
-        issues_df,
-        priorities_df,
+        readiness_summary=readiness_summary,
+        issues_df=issues_df,
+        priorities_df=priorities_df,
     )
 
-    recommendations = (
-        generate_recommendations(
-            issues_df
-        )
-    )
+    recommendations = generate_recommendations(issues_df)
 
-    issues_csv = (
-        output_path /
-        "geoops_issues.csv"
-    )
+    issues_csv = output_path / "geoops_issues.csv"
+    priorities_csv = output_path / "geoops_review_priorities.csv"
 
-    priorities_csv = (
-        output_path /
-        "geoops_review_priorities.csv"
-    )
+    issues_df.to_csv(issues_csv, index=False)
+    priorities_df.to_csv(priorities_csv, index=False)
 
-    issues_df.to_csv(
-        issues_csv,
-        index=False,
-    )
+    issue_layer_path: Optional[Path] = None
 
-    priorities_df.to_csv(
-        priorities_csv,
-        index=False,
-    )
-
-    issue_layer_path: Optional[
-        Path
-    ] = None
-
-    if (
-        export_issue_layer
-        and not issues_df.empty
-    ):
-
+    if export_issue_layer and not issues_df.empty:
         try:
-
-            issue_layer_path = (
-                export_issue_geojson(
-                    issues_df,
-                    df,
-                    output_path /
-                    "geoops_issue_layer.geojson",
-                )
+            issue_layer_path = export_issue_geojson(
+                issues_df=issues_df,
+                original_df=df,
+                output_path=output_path / "geoops_issue_layer.geojson",
             )
-
         except Exception as exc:
-
-            print(
-                f"Warning: {exc}"
-            )
+            issue_layer_path = None
+            print(f"Warning: Issue layer export failed: {exc}")
 
     return {
-        "issue_summary":
-            issue_summary,
-        "readiness_summary":
-            readiness_summary,
-        "report":
-            report,
-        "recommendations":
-            recommendations,
+        "issue_summary": issue_summary,
+        "readiness_summary": readiness_summary,
+        "report": report,
+        "recommendations": recommendations,
         "outputs": {
-            "issues_csv":
-                str(issues_csv),
-            "priorities_csv":
-                str(priorities_csv),
-            "issue_layer_geojson":
-                str(issue_layer_path)
-                if issue_layer_path
-                else None,
+            "issues_csv": str(issues_csv),
+            "priorities_csv": str(priorities_csv),
+            "issue_layer_geojson": str(issue_layer_path) if issue_layer_path else None,
         },
     }

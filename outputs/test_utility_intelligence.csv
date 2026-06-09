@@ -1,0 +1,4 @@
+feature_index,asset_id,utility_risk_score,maintenance_priority,age_score,condition_score,inspection_score,diameter_score,qa_issue_score,critical_issue_score,recommended_action
+2,HYD-003,98,Critical Priority,25,40,25,8,0,0,Immediate engineering review recommended before operational use.
+1,HYD-002,68,High Priority,0,15,25,12,16,0,Prioritize for near-term inspection or maintenance planning.
+0,HYD-001,18,Low Priority,5,5,8,0,0,0,Monitor and validate during routine data review.

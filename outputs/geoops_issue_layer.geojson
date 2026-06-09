@@ -6,80 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.63300000000001,
-          40.707
+          -89.62400000000001,
+          40.62
         ]
       },
       "properties": {
-        "asset_id": "row_16",
-        "severity": "Critical",
-        "category": "Missing Asset ID",
-        "description": "Asset has no unique identifier.",
-        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.616,
-          40.724
-        ]
-      },
-      "properties": {
-        "asset_id": "row_33",
-        "severity": "Critical",
-        "category": "Missing Asset ID",
-        "description": "Asset has no unique identifier.",
-        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.599,
-          40.741
-        ]
-      },
-      "properties": {
-        "asset_id": "row_50",
-        "severity": "Critical",
-        "category": "Missing Asset ID",
-        "description": "Asset has no unique identifier.",
-        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.58200000000001,
-          40.757999999999996
-        ]
-      },
-      "properties": {
-        "asset_id": "row_67",
-        "severity": "Critical",
-        "category": "Missing Asset ID",
-        "description": "Asset has no unique identifier.",
-        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.56500000000001,
-          40.775
-        ]
-      },
-      "properties": {
-        "asset_id": "row_84",
+        "asset_id": "row_18",
         "severity": "Critical",
         "category": "Missing Asset ID",
         "description": "Asset has no unique identifier.",
@@ -92,11 +24,11 @@
         "type": "Point",
         "coordinates": [
           -89.548,
-          40.791999999999994
+          40.62
         ]
       },
       "properties": {
-        "asset_id": "row_101",
+        "asset_id": "row_37",
         "severity": "Critical",
         "category": "Missing Asset ID",
         "description": "Asset has no unique identifier.",
@@ -108,12 +40,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.531,
-          40.809
+          -89.672,
+          40.626
         ]
       },
       "properties": {
-        "asset_id": "row_118",
+        "asset_id": "row_56",
         "severity": "Critical",
         "category": "Missing Asset ID",
         "description": "Asset has no unique identifier.",
@@ -125,12 +57,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.51400000000001,
-          40.826
+          -89.596,
+          40.626
         ]
       },
       "properties": {
-        "asset_id": "row_135",
+        "asset_id": "row_75",
         "severity": "Critical",
         "category": "Missing Asset ID",
         "description": "Asset has no unique identifier.",
@@ -142,16 +74,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.63300000000001,
-          40.707
+          -89.52,
+          40.626
         ]
       },
       "properties": {
-        "asset_id": "",
+        "asset_id": "row_94",
         "severity": "Critical",
-        "category": "Duplicate Asset ID",
-        "description": "Asset ID  appears more than once.",
-        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.644,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "row_113",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.568,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "row_132",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.69200000000001,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "row_151",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
       }
     },
     {
@@ -160,15 +143,15 @@
         "type": "Point",
         "coordinates": [
           -89.616,
-          40.724
+          40.638
         ]
       },
       "properties": {
-        "asset_id": "",
+        "asset_id": "row_170",
         "severity": "Critical",
-        "category": "Duplicate Asset ID",
-        "description": "Asset ID  appears more than once.",
-        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
       }
     },
     {
@@ -176,16 +159,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.599,
-          40.741
+          -89.54,
+          40.638
         ]
       },
       "properties": {
-        "asset_id": "",
+        "asset_id": "row_189",
         "severity": "Critical",
-        "category": "Duplicate Asset ID",
-        "description": "Asset ID  appears more than once.",
-        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
       }
     },
     {
@@ -193,16 +176,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.58200000000001,
-          40.757999999999996
+          -89.664,
+          40.644
         ]
       },
       "properties": {
-        "asset_id": "",
+        "asset_id": "row_208",
         "severity": "Critical",
-        "category": "Duplicate Asset ID",
-        "description": "Asset ID  appears more than once.",
-        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
       }
     },
     {
@@ -210,8 +193,263 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.56500000000001,
-          40.775
+          -89.58800000000001,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "row_227",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.512,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "row_246",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63600000000001,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "row_265",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "row_284",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.684,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "row_303",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.608,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "row_322",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.532,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "row_341",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.656,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "row_360",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "row_379",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.504,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "row_398",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.628,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "row_417",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.552,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "row_436",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.676,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "row_455",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.60000000000001,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "row_474",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "row_493",
+        "severity": "Critical",
+        "category": "Missing Asset ID",
+        "description": "Asset has no unique identifier.",
+        "recommended_action": "Assign a unique asset ID before publishing, migration, or client delivery."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62400000000001,
+          40.62
         ]
       },
       "properties": {
@@ -228,7 +466,7 @@
         "type": "Point",
         "coordinates": [
           -89.548,
-          40.791999999999994
+          40.62
         ]
       },
       "properties": {
@@ -244,8 +482,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.531,
-          40.809
+          -89.672,
+          40.626
         ]
       },
       "properties": {
@@ -261,8 +499,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.51400000000001,
-          40.826
+          -89.596,
+          40.626
         ]
       },
       "properties": {
@@ -278,12 +516,386 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.646,
-          40.693999999999996
+          -89.52,
+          40.626
         ]
       },
       "properties": {
-        "asset_id": "HYD-0004",
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.644,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.568,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.69200000000001,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.664,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58800000000001,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.512,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63600000000001,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.684,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.608,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.532,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.656,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.504,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.628,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.552,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.676,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.60000000000001,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Critical",
+        "category": "Duplicate Asset ID",
+        "description": "Asset ID  appears more than once.",
+        "recommended_action": "Verify whether records are duplicates or whether asset IDs need correction."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.684,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00004",
         "severity": "High",
         "category": "Missing Condition",
         "description": "Asset condition is missing.",
@@ -295,12 +907,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.64,
-          40.699999999999996
+          -89.66,
+          40.62
         ]
       },
       "properties": {
-        "asset_id": "HYD-0010",
+        "asset_id": "HYD-00010",
         "severity": "High",
         "category": "Missing Condition",
         "description": "Asset condition is missing.",
@@ -312,12 +924,284 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.634,
-          40.705999999999996
+          -89.63600000000001,
+          40.62
         ]
       },
       "properties": {
-        "asset_id": "HYD-0016",
+        "asset_id": "HYD-00016",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61200000000001,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00022",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58800000000001,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00028",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56400000000001,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00034",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00040",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.516,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00046",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.69200000000001,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00052",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.668,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00058",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.644,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00064",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00070",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.596,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.572,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00082",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.548,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00088",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00094",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00100",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.676,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00106",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.652,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00112",
         "severity": "High",
         "category": "Missing Condition",
         "description": "Asset condition is missing.",
@@ -330,62 +1214,11 @@
         "type": "Point",
         "coordinates": [
           -89.628,
-          40.711999999999996
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0022",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.622,
-          40.717999999999996
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0028",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.616,
-          40.724
-        ]
-      },
-      "properties": {
-        "asset_id": "",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.61,
-          40.73
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0040",
+        "asset_id": "HYD-00118",
         "severity": "High",
         "category": "Missing Condition",
         "description": "Asset condition is missing.",
@@ -398,11 +1231,11 @@
         "type": "Point",
         "coordinates": [
           -89.604,
-          40.736
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0046",
+        "asset_id": "HYD-00124",
         "severity": "High",
         "category": "Missing Condition",
         "description": "Asset condition is missing.",
@@ -414,12 +1247,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.598,
-          40.742
+          -89.58,
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0052",
+        "asset_id": "HYD-00130",
         "severity": "High",
         "category": "Missing Condition",
         "description": "Asset condition is missing.",
@@ -431,12 +1264,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.592,
-          40.748
+          -89.556,
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0058",
+        "asset_id": "HYD-00136",
         "severity": "High",
         "category": "Missing Condition",
         "description": "Asset condition is missing.",
@@ -448,216 +1281,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.58600000000001,
-          40.754
+          -89.532,
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0064",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.58000000000001,
-          40.76
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0070",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.57400000000001,
-          40.766
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0076",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.56800000000001,
-          40.772
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0082",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.56200000000001,
-          40.778
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0088",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.55600000000001,
-          40.784
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0094",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.55000000000001,
-          40.79
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0100",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.54400000000001,
-          40.796
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0106",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.53800000000001,
-          40.802
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0112",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.53200000000001,
-          40.808
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0118",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.52600000000001,
-          40.814
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0124",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.52000000000001,
-          40.82
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0130",
-        "severity": "High",
-        "category": "Missing Condition",
-        "description": "Asset condition is missing.",
-        "recommended_action": "Review inspection records or field data to populate condition."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.51400000000001,
-          40.826
-        ]
-      },
-      "properties": {
-        "asset_id": "",
+        "asset_id": "HYD-00142",
         "severity": "High",
         "category": "Missing Condition",
         "description": "Asset condition is missing.",
@@ -670,11 +1299,11 @@
         "type": "Point",
         "coordinates": [
           -89.50800000000001,
-          40.832
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0142",
+        "asset_id": "HYD-00148",
         "severity": "High",
         "category": "Missing Condition",
         "description": "Asset condition is missing.",
@@ -686,441 +1315,1155 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.64500000000001,
-          40.695
+          -89.684,
+          40.638
         ]
       },
       "properties": {
-        "asset_id": "HYD-0005",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.63900000000001,
-          40.701
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0011",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.63300000000001,
-          40.707
-        ]
-      },
-      "properties": {
-        "asset_id": "",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.62700000000001,
-          40.713
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0023",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.62100000000001,
-          40.719
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0029",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.61500000000001,
-          40.724999999999994
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0035",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.60900000000001,
-          40.730999999999995
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0041",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.60300000000001,
-          40.736999999999995
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0047",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.59700000000001,
-          40.742999999999995
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0053",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.59100000000001,
-          40.748999999999995
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0059",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.58500000000001,
-          40.754999999999995
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0065",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.57900000000001,
-          40.760999999999996
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0071",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.57300000000001,
-          40.766999999999996
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0077",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.56700000000001,
-          40.772999999999996
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0083",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.561,
-          40.778999999999996
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0089",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.555,
-          40.785
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0095",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.549,
-          40.791
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0101",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.543,
-          40.797
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0107",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.537,
-          40.803
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0113",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.531,
-          40.809
-        ]
-      },
-      "properties": {
-        "asset_id": "",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.525,
-          40.815
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0125",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.519,
-          40.821
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0131",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.513,
-          40.827
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0137",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.507,
-          40.833
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0143",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.501,
-          40.839
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0149",
-        "severity": "Medium",
-        "category": "Invalid Condition",
-        "description": "Condition value 'Broken' is not recognized.",
-        "recommended_action": "Standardize condition values to accepted categories."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.62100000000001,
-          40.719
-        ]
-      },
-      "properties": {
-        "asset_id": "HYD-0029",
+        "asset_id": "HYD-00154",
         "severity": "High",
-        "category": "Future Install Year",
-        "description": "Install year 2035 is later than current year.",
-        "recommended_action": "Verify install year from source records."
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00160",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63600000000001,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00166",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58800000000001,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00178",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56400000000001,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00184",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.516,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00196",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.69200000000001,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00202",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.668,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00208",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.644,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00214",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00220",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.596,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00226",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.572,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00232",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.548,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00238",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00244",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00250",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.676,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00256",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.652,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00262",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.628,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00268",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.604,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00274",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00280",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.556,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00286",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.532,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00292",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.50800000000001,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00298",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.684,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00310",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63600000000001,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00316",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61200000000001,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00322",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58800000000001,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00328",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56400000000001,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00334",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00340",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.516,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00346",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.69200000000001,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00352",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.668,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00358",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.644,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00364",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00370",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.596,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00376",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.572,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00382",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.548,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00388",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00394",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00400",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.676,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00406",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.652,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00412",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.628,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.604,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00424",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.556,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00436",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.532,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00442",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.50800000000001,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00448",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.684,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00454",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00460",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63600000000001,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00466",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61200000000001,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00472",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58800000000001,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00478",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56400000000001,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00484",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00490",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.516,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00496",
+        "severity": "High",
+        "category": "Missing Condition",
+        "description": "Asset condition is missing.",
+        "recommended_action": "Review inspection records or field data to populate condition."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.68,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00005",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.656,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00011",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.632,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00017",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.608,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00023",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.584,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00029",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00035",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.536,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00041",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.512,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00047",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.688,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00053",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.664,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00059",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00065",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00071",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
       }
     },
     {
@@ -1129,15 +2472,15 @@
         "type": "Point",
         "coordinates": [
           -89.592,
-          40.748
+          40.626
         ]
       },
       "properties": {
-        "asset_id": "HYD-0058",
-        "severity": "High",
-        "category": "Future Install Year",
-        "description": "Install year 2035 is later than current year.",
-        "recommended_action": "Verify install year from source records."
+        "asset_id": "HYD-00077",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
       }
     },
     {
@@ -1145,16 +2488,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.563,
-          40.777
+          -89.568,
+          40.626
         ]
       },
       "properties": {
-        "asset_id": "HYD-0087",
-        "severity": "High",
-        "category": "Future Install Year",
-        "description": "Install year 2035 is later than current year.",
-        "recommended_action": "Verify install year from source records."
+        "asset_id": "HYD-00083",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
       }
     },
     {
@@ -1162,16 +2505,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.534,
-          40.806
+          -89.544,
+          40.626
         ]
       },
       "properties": {
-        "asset_id": "HYD-0116",
-        "severity": "High",
-        "category": "Future Install Year",
-        "description": "Install year 2035 is later than current year.",
-        "recommended_action": "Verify install year from source records."
+        "asset_id": "HYD-00089",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
       }
     },
     {
@@ -1179,16 +2522,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.50500000000001,
-          40.835
+          -89.52,
+          40.626
         ]
       },
       "properties": {
-        "asset_id": "HYD-0145",
-        "severity": "High",
-        "category": "Future Install Year",
-        "description": "Install year 2035 is later than current year.",
-        "recommended_action": "Verify install year from source records."
+        "asset_id": "",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
       }
     },
     {
@@ -1196,16 +2539,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.637,
-          40.702999999999996
+          -89.696,
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0013",
-        "severity": "High",
-        "category": "Missing Inspection Date",
-        "description": "Last inspection date is missing.",
-        "recommended_action": "Review field inspection records and populate inspection date."
+        "asset_id": "HYD-00101",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.672,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00107",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.648,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00113",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
       }
     },
     {
@@ -1214,11 +2591,1269 @@
         "type": "Point",
         "coordinates": [
           -89.62400000000001,
-          40.716
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0026",
+        "asset_id": "HYD-00119",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.60000000000001,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00125",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.57600000000001,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00131",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.552,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00137",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.528,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00143",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.504,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00149",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.68,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00155",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.656,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00161",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.632,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00167",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.608,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00173",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.584,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00179",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00185",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.536,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00191",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.512,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00197",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.688,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00203",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.664,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00221",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.592,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00227",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.568,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00233",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.544,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00239",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.52,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00245",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.696,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00251",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.672,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00257",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.648,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00263",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62400000000001,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00269",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.60000000000001,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00275",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.57600000000001,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00281",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.552,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00287",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.528,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00293",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.504,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00299",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.68,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00305",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.656,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00311",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.632,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00317",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.608,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.584,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00329",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00335",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.536,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00341",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.512,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00347",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.688,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00353",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.664,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00359",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00365",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00371",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.592,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00377",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.568,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00383",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.544,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00389",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.52,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00395",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.696,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00401",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.672,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00407",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.648,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00413",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62400000000001,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00419",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.60000000000001,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00425",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.57600000000001,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00431",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.552,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.528,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00443",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.504,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00449",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.68,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00455",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.656,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00461",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.632,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00467",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.584,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00479",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00485",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.536,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00491",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.512,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00497",
+        "severity": "Medium",
+        "category": "Invalid Condition",
+        "description": "Condition value 'Broken' is not recognized.",
+        "recommended_action": "Standardize condition values to accepted categories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.536,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00041",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.572,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00082",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.608,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00123",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.644,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00164",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.68,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00205",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.516,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00246",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.552,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00287",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58800000000001,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00328",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62400000000001,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00369",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00410",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.696,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00451",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.532,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00492",
+        "severity": "High",
+        "category": "Future Install Year",
+        "description": "Install year 2035 is later than current year.",
+        "recommended_action": "Verify install year from source records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.652,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00012",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1230,12 +3865,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.611,
-          40.729
+          -89.604,
+          40.62
         ]
       },
       "properties": {
-        "asset_id": "HYD-0039",
+        "asset_id": "HYD-00024",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1247,12 +3882,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.598,
-          40.742
+          -89.556,
+          40.62
         ]
       },
       "properties": {
-        "asset_id": "HYD-0052",
+        "asset_id": "HYD-00036",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1264,12 +3899,114 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.58500000000001,
-          40.754999999999995
+          -89.50800000000001,
+          40.62
         ]
       },
       "properties": {
-        "asset_id": "HYD-0065",
+        "asset_id": "HYD-00048",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00060",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61200000000001,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00072",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56400000000001,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00084",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.516,
+          40.626
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00096",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.668,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00108",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00120",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1282,11 +4019,11 @@
         "type": "Point",
         "coordinates": [
           -89.572,
-          40.768
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0078",
+        "asset_id": "HYD-00132",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1298,12 +4035,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.55900000000001,
-          40.781
+          -89.524,
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0091",
+        "asset_id": "HYD-00144",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1315,12 +4052,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.546,
-          40.794
+          -89.676,
+          40.638
         ]
       },
       "properties": {
-        "asset_id": "HYD-0104",
+        "asset_id": "HYD-00156",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1332,12 +4069,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.533,
-          40.806999999999995
+          -89.628,
+          40.638
         ]
       },
       "properties": {
-        "asset_id": "HYD-0117",
+        "asset_id": "HYD-00168",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1349,12 +4086,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.52000000000001,
-          40.82
+          -89.58,
+          40.638
         ]
       },
       "properties": {
-        "asset_id": "HYD-0130",
+        "asset_id": "HYD-00180",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1366,12 +4103,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.507,
-          40.833
+          -89.532,
+          40.638
         ]
       },
       "properties": {
-        "asset_id": "HYD-0143",
+        "asset_id": "HYD-00192",
         "severity": "High",
         "category": "Missing Inspection Date",
         "description": "Last inspection date is missing.",
@@ -1383,16 +4120,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.619,
-          40.721
+          -89.684,
+          40.644
         ]
       },
       "properties": {
-        "asset_id": "HYD-0031",
-        "severity": "Medium",
-        "category": "Suspicious Diameter",
-        "description": "Diameter value 999.0 appears unusual.",
-        "recommended_action": "Verify diameter against utility records."
+        "asset_id": "HYD-00204",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63600000000001,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00216",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
       }
     },
     {
@@ -1401,11 +4155,402 @@
         "type": "Point",
         "coordinates": [
           -89.58800000000001,
-          40.751999999999995
+          40.644
         ]
       },
       "properties": {
-        "asset_id": "HYD-0062",
+        "asset_id": "",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00240",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.69200000000001,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00252",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.644,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00264",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.596,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00276",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.548,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00288",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00300",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.652,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00312",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.604,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00324",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.556,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00336",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.50800000000001,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00348",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00360",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61200000000001,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00372",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56400000000001,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00384",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.516,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00396",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.668,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00408",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00420",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.572,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00432",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00444",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.676,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.628,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00468",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00480",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.532,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00492",
+        "severity": "High",
+        "category": "Missing Inspection Date",
+        "description": "Last inspection date is missing.",
+        "recommended_action": "Review field inspection records and populate inspection date."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.552,
+          40.62
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00037",
         "severity": "Medium",
         "category": "Suspicious Diameter",
         "description": "Diameter value 999.0 appears unusual.",
@@ -1417,12 +4562,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.557,
-          40.783
+          -89.604,
+          40.626
         ]
       },
       "properties": {
-        "asset_id": "HYD-0093",
+        "asset_id": "HYD-00074",
         "severity": "Medium",
         "category": "Suspicious Diameter",
         "description": "Diameter value 999.0 appears unusual.",
@@ -1434,12 +4579,182 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.52600000000001,
-          40.814
+          -89.656,
+          40.632
         ]
       },
       "properties": {
-        "asset_id": "HYD-0124",
+        "asset_id": "HYD-00111",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.50800000000001,
+          40.632
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00148",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56,
+          40.638
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00185",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61200000000001,
+          40.644
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00222",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.664,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00259",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.516,
+          40.65
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00296",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.568,
+          40.656
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00333",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62,
+          40.662
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00370",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.672,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00407",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524,
+          40.668
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00444",
+        "severity": "Medium",
+        "category": "Suspicious Diameter",
+        "description": "Diameter value 999.0 appears unusual.",
+        "recommended_action": "Verify diameter against utility records."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.57600000000001,
+          40.674
+        ]
+      },
+      "properties": {
+        "asset_id": "HYD-00481",
         "severity": "Medium",
         "category": "Suspicious Diameter",
         "description": "Diameter value 999.0 appears unusual.",

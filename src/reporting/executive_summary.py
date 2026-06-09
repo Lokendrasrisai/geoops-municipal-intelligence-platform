@@ -1,4 +1,7 @@
-def generate_executive_summary(summary: dict) -> str:
+# src/reporting/executive_summary.py
+
+def generate_executive_summary(summary):
+
     return f"""
 GeoOps Municipal Intelligence Report
 
