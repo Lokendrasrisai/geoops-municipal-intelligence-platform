@@ -1,0 +1,7 @@
+pressure_zone,asset_count,avg_risk_score,max_risk_score,critical_priority_count,high_priority_count
+Zone B,93,46.65,94,2,23
+Zone C,93,46.41,94,2,23
+Zone A,93,46.1,82,2,23
+Zone D,93,45.99,86,2,23
+Zone E,93,45.7,84,2,23
+,35,45.69,73,0,9

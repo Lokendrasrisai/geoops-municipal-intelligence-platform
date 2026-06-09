@@ -11,6 +11,11 @@ from src.readiness.scoring import (
 )
 from src.reporting.report_builder import build_report
 from src.reporting.recommendations import generate_recommendations
+from src.utility_intelligence.risk_engine import build_utility_intelligence
+from src.spatial.hotspot_engine import (
+    build_pressure_zone_hotspots,
+    generate_hotspot_insights,
+)
 
 
 def run_geoops_pipeline(
@@ -27,10 +32,24 @@ def run_geoops_pipeline(
     priorities_df = assign_feature_review_priorities(issues_df)
     readiness_summary = build_readiness_summary(issues_df)
 
+    utility_df = build_utility_intelligence(df, issues_df)
+    utility_path = output_path / "geoops_utility_intelligence.csv"
+    utility_df.to_csv(utility_path, index=False)
+
+    hotspots_df = pd.DataFrame()
+    hotspot_insights = []
+
+    if "pressure_zone" in df.columns:
+        hotspots_df = build_pressure_zone_hotspots(df, utility_df)
+        hotspot_insights = generate_hotspot_insights(hotspots_df)
+
+    hotspots_path = output_path / "geoops_spatial_hotspots.csv"
+    hotspots_df.to_csv(hotspots_path, index=False)
+
     report = build_report(
-        readiness_summary=readiness_summary,
-        issues_df=issues_df,
-        priorities_df=priorities_df,
+        readiness_summary,
+        issues_df,
+        priorities_df,
     )
 
     recommendations = generate_recommendations(issues_df)
@@ -46,22 +65,24 @@ def run_geoops_pipeline(
     if export_issue_layer and not issues_df.empty:
         try:
             issue_layer_path = export_issue_geojson(
-                issues_df=issues_df,
-                original_df=df,
-                output_path=output_path / "geoops_issue_layer.geojson",
+                issues_df,
+                df,
+                output_path / "geoops_issue_layer.geojson",
             )
         except Exception as exc:
-            issue_layer_path = None
-            print(f"Warning: Issue layer export failed: {exc}")
+            print(f"Warning: {exc}")
 
     return {
         "issue_summary": issue_summary,
         "readiness_summary": readiness_summary,
         "report": report,
         "recommendations": recommendations,
+        "hotspot_insights": hotspot_insights,
         "outputs": {
             "issues_csv": str(issues_csv),
             "priorities_csv": str(priorities_csv),
+            "utility_intelligence_csv": str(utility_path),
+            "spatial_hotspots_csv": str(hotspots_path),
             "issue_layer_geojson": str(issue_layer_path) if issue_layer_path else None,
         },
     }

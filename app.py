@@ -14,98 +14,84 @@ st.set_page_config(
 )
 
 
-# -----------------------------
-# Styling
-# -----------------------------
 st.markdown(
     """
     <style>
     .stApp {
-        background: linear-gradient(180deg, #f7fbff 0%, #eef4f8 100%);
+        background: linear-gradient(180deg, #f6fbff 0%, #edf5f8 100%);
     }
-
     .hero {
-        padding: 28px;
-        border-radius: 22px;
-        background: linear-gradient(135deg, #102A43 0%, #145374 55%, #1C7C89 100%);
+        padding: 30px;
+        border-radius: 24px;
+        background: linear-gradient(135deg, #0f172a 0%, #164e63 52%, #0f766e 100%);
         color: white;
-        margin-bottom: 22px;
-        box-shadow: 0 12px 30px rgba(16, 42, 67, 0.22);
+        margin-bottom: 24px;
+        box-shadow: 0 14px 34px rgba(15, 23, 42, 0.24);
     }
-
     .hero-title {
-        font-size: 42px;
-        font-weight: 800;
-        margin-bottom: 6px;
+        font-size: 44px;
+        font-weight: 850;
+        margin-bottom: 8px;
     }
-
     .hero-subtitle {
         font-size: 18px;
-        opacity: 0.92;
+        opacity: 0.94;
         line-height: 1.5;
     }
-
     .card {
         padding: 20px;
         border-radius: 18px;
         background: white;
-        border: 1px solid #dbe5ec;
-        box-shadow: 0 6px 18px rgba(16, 42, 67, 0.06);
+        border: 1px solid #dbe7ee;
+        box-shadow: 0 8px 22px rgba(15, 23, 42, 0.07);
         margin-bottom: 16px;
     }
-
     .small-label {
-        color: #627d98;
+        color: #64748b;
         font-size: 13px;
-        font-weight: 600;
+        font-weight: 700;
         text-transform: uppercase;
         letter-spacing: 0.04em;
     }
-
     .big-value {
         font-size: 32px;
-        font-weight: 800;
-        color: #102A43;
+        font-weight: 850;
+        color: #0f172a;
     }
-
     .soft-text {
-        color: #486581;
+        color: #475569;
         font-size: 15px;
     }
-
     .pill {
         display: inline-block;
-        padding: 6px 12px;
+        padding: 7px 13px;
         border-radius: 999px;
-        background: #d9f99d;
-        color: #365314;
-        font-weight: 700;
+        background: #dcfce7;
+        color: #166534;
+        font-weight: 800;
         font-size: 13px;
     }
-
     .warning-pill {
         display: inline-block;
-        padding: 6px 12px;
+        padding: 7px 13px;
         border-radius: 999px;
         background: #ffedd5;
         color: #9a3412;
-        font-weight: 700;
+        font-weight: 800;
         font-size: 13px;
     }
-
     .danger-pill {
         display: inline-block;
-        padding: 6px 12px;
+        padding: 7px 13px;
         border-radius: 999px;
         background: #fee2e2;
         color: #991b1b;
-        font-weight: 700;
+        font-weight: 800;
         font-size: 13px;
     }
-
     .stButton>button {
         border-radius: 14px;
-        font-weight: 700;
+        font-weight: 800;
         height: 3rem;
     }
     </style>
@@ -114,12 +100,8 @@ st.markdown(
 )
 
 
-# -----------------------------
-# Demo Data
-# -----------------------------
 def create_demo_utility_data() -> pd.DataFrame:
     rows = []
-
     for i in range(1, 501):
         rows.append(
             {
@@ -136,13 +118,9 @@ def create_demo_utility_data() -> pd.DataFrame:
                 else {"x": -89.70 + (i % 50) * 0.004, "y": 40.62 + (i // 50) * 0.006},
             }
         )
-
     return pd.DataFrame(rows)
 
 
-# -----------------------------
-# Helpers
-# -----------------------------
 def readiness_badge(level: str) -> str:
     if level in ["Production Ready", "Operationally Ready"]:
         return f'<span class="pill">{level}</span>'
@@ -182,10 +160,7 @@ def load_selected_data(data_source: str):
         st.sidebar.success("Loaded demo municipal utility dataset.")
 
     elif data_source == "Upload CSV":
-        uploaded_file = st.sidebar.file_uploader(
-            "Upload municipal asset CSV",
-            type=["csv"],
-        )
+        uploaded_file = st.sidebar.file_uploader("Upload municipal asset CSV", type=["csv"])
         if uploaded_file:
             df = pd.read_csv(uploaded_file)
             st.sidebar.success("CSV uploaded successfully.")
@@ -244,45 +219,23 @@ def render_score_cards(readiness: dict):
     c1, c2, c3, c4 = st.columns(4)
 
     with c1:
-        metric_card(
-            "Overall GIS Health",
-            readiness["overall_gis_health_score"],
-            score_status(readiness["overall_gis_health_score"]),
-        )
-
+        metric_card("Overall GIS Health", readiness["overall_gis_health_score"], score_status(readiness["overall_gis_health_score"]))
     with c2:
-        metric_card(
-            "Data Quality",
-            readiness["data_quality_score"],
-            score_status(readiness["data_quality_score"]),
-        )
-
+        metric_card("Data Quality", readiness["data_quality_score"], score_status(readiness["data_quality_score"]))
     with c3:
-        metric_card(
-            "Utility Readiness",
-            readiness["utility_network_readiness_score"],
-            score_status(readiness["utility_network_readiness_score"]),
-        )
-
+        metric_card("Utility Readiness", readiness["utility_network_readiness_score"], score_status(readiness["utility_network_readiness_score"]))
     with c4:
-        metric_card(
-            "Asset Readiness",
-            readiness["asset_management_readiness_score"],
-            score_status(readiness["asset_management_readiness_score"]),
-        )
+        metric_card("Asset Readiness", readiness["asset_management_readiness_score"], score_status(readiness["asset_management_readiness_score"]))
 
 
-# -----------------------------
-# App
-# -----------------------------
 def main():
     st.markdown(
         """
         <div class="hero">
             <div class="hero-title">GeoOps Municipal Intelligence Platform</div>
             <div class="hero-subtitle">
-                ArcGIS-aligned operational intelligence for municipal GIS QA, readiness scoring,
-                analyst review prioritization, and utility asset decision support.
+                Municipal decision intelligence for GIS quality, utility asset risk,
+                spatial hotspots, readiness scoring, and ArcGIS-aligned review workflows.
             </div>
         </div>
         """,
@@ -291,19 +244,13 @@ def main():
 
     with st.sidebar:
         st.header("Control Center")
-
         data_source = st.radio(
             "Select Data Source",
-            [
-                "Demo Utility Dataset",
-                "Upload CSV",
-                "ArcGIS Feature Layer",
-            ],
+            ["Demo Utility Dataset", "Upload CSV", "ArcGIS Feature Layer"],
         )
-
         st.markdown("---")
-        st.caption("GeoOps Pipeline")
-        st.caption("Intake → GeoQA → Readiness → Reporting → Issue Layer")
+        st.caption("Pipeline")
+        st.caption("Intake → GeoQA → Readiness → Utility Intelligence → Spatial Intelligence → Reporting")
 
     df = load_selected_data(data_source)
 
@@ -311,52 +258,41 @@ def main():
         st.info("Choose a data source from the sidebar to begin.")
         return
 
-    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(
+    tabs = st.tabs(
         [
             "Overview",
             "Assessment",
             "Issue Intelligence",
+            "Utility Intelligence",
+            "Spatial Intelligence",
             "ArcGIS Fit",
             "Exports",
             "Roadmap",
         ]
     )
 
-    with tab1:
+    with tabs[0]:
         st.subheader("Platform Overview")
-
         st.markdown(
             """
-            GeoOps is designed as an **operational intelligence layer** above existing GIS workflows.
+            GeoOps is an **operational intelligence layer** above existing GIS workflows.
 
-            It does not replace ArcGIS Pro, ArcGIS Online, or GIS analysts.  
-            It helps teams quickly understand:
-
-            - What is wrong with a GIS dataset
-            - Which records should be reviewed first
-            - Whether a dataset is ready for operational workflows
-            - What issue layer or report should be created for analyst review
+            It helps municipalities and GIS consulting teams understand:
+            - What is wrong with the GIS dataset
+            - Which assets require review first
+            - Where operational risk is concentrated
+            - Whether data is ready for Utility Network or asset management workflows
             """
         )
-
         st.markdown("### Dataset Profile")
         render_dataset_profile(df)
-
         st.markdown("### Dataset Preview")
-        st.dataframe(df.head(40), use_container_width=True)
+        st.dataframe(df.head(50), use_container_width=True)
 
-    with tab2:
+    with tabs[1]:
         st.subheader("Municipal GIS Health Assessment")
-
-        st.markdown(
-            """
-            Run the complete GeoOps pipeline on the loaded dataset.  
-            The assessment generates readiness scores, issue summaries, recommendations, and ArcGIS-ready outputs.
-            """
-        )
-
         if st.button("Run Full GeoOps Assessment", type="primary", use_container_width=True):
-            with st.spinner("Running GeoOps Intelligence Pipeline..."):
+            with st.spinner("Running complete GeoOps decision intelligence pipeline..."):
                 result = run_geoops_pipeline(df)
                 st.session_state["geoops_result"] = result
 
@@ -367,11 +303,7 @@ def main():
 
             st.markdown("### Executive Readiness Scores")
             render_score_cards(readiness)
-
-            st.markdown(
-                f"### Readiness Level: {readiness_badge(readiness['readiness_level'])}",
-                unsafe_allow_html=True,
-            )
+            st.markdown(f"### Readiness Level: {readiness_badge(readiness['readiness_level'])}", unsafe_allow_html=True)
 
             st.markdown("### Issue Summary")
             c1, c2, c3 = st.columns(3)
@@ -387,77 +319,39 @@ def main():
             with left:
                 if severity_breakdown:
                     severity_df = pd.DataFrame(
-                        {
-                            "Severity": list(severity_breakdown.keys()),
-                            "Count": list(severity_breakdown.values()),
-                        }
+                        {"Severity": list(severity_breakdown.keys()), "Count": list(severity_breakdown.values())}
                     )
-                    fig = px.pie(
-                        severity_df,
-                        names="Severity",
-                        values="Count",
-                        title="Issue Severity Distribution",
-                        hole=0.45,
-                    )
+                    fig = px.pie(severity_df, names="Severity", values="Count", title="Issue Severity Distribution", hole=0.45)
                     st.plotly_chart(fig, use_container_width=True)
 
             with right:
                 if category_breakdown:
                     category_df = pd.DataFrame(
-                        {
-                            "Category": list(category_breakdown.keys()),
-                            "Count": list(category_breakdown.values()),
-                        }
+                        {"Category": list(category_breakdown.keys()), "Count": list(category_breakdown.values())}
                     ).sort_values("Count", ascending=False)
-
-                    fig = px.bar(
-                        category_df.head(12),
-                        x="Count",
-                        y="Category",
-                        orientation="h",
-                        title="Top Issue Categories",
-                    )
+                    fig = px.bar(category_df.head(12), x="Count", y="Category", orientation="h", title="Top Issue Categories")
                     st.plotly_chart(fig, use_container_width=True)
 
             st.markdown("### Recommended Actions")
             for rec in result["recommendations"]:
                 st.success(rec)
 
-    with tab3:
+    with tabs[2]:
         st.subheader("Issue Intelligence")
-
         if "geoops_result" not in st.session_state:
             st.warning("Run the assessment first.")
         else:
             outputs = st.session_state["geoops_result"]["outputs"]
-
             issues_df = pd.read_csv(outputs["issues_csv"])
             priorities_df = pd.read_csv(outputs["priorities_csv"])
 
-            st.markdown(
-                """
-                This section is designed for analysts.  
-                It shows the flagged records, issue categories, severity, and review priority.
-                """
-            )
-
             f1, f2 = st.columns(2)
-
             with f1:
                 severities = sorted(issues_df["severity"].dropna().unique())
-                selected_severities = st.multiselect(
-                    "Filter by Severity",
-                    severities,
-                    default=severities,
-                )
-
+                selected_severities = st.multiselect("Filter by Severity", severities, default=severities)
             with f2:
                 categories = sorted(issues_df["issue_category"].dropna().unique())
-                selected_categories = st.multiselect(
-                    "Filter by Issue Category",
-                    categories,
-                    default=categories,
-                )
+                selected_categories = st.multiselect("Filter by Issue Category", categories, default=categories)
 
             filtered = issues_df[
                 issues_df["severity"].isin(selected_severities)
@@ -470,41 +364,84 @@ def main():
             st.markdown("### Review Priority Ranking")
             st.dataframe(priorities_df, use_container_width=True)
 
-    with tab4:
-        st.subheader("How GeoOps Fits ArcGIS Workflows")
+    with tabs[3]:
+        st.subheader("Utility Intelligence")
+        if "geoops_result" not in st.session_state:
+            st.warning("Run the assessment first.")
+        else:
+            outputs = st.session_state["geoops_result"]["outputs"]
+            utility_df = pd.read_csv(outputs["utility_intelligence_csv"])
 
+            c1, c2, c3 = st.columns(3)
+            c1.metric("Highest Risk Score", int(utility_df["utility_risk_score"].max()))
+            c2.metric("Critical Priority Assets", int((utility_df["maintenance_priority"] == "Critical Priority").sum()))
+            c3.metric("High Priority Assets", int((utility_df["maintenance_priority"] == "High Priority").sum()))
+
+            priority_counts = utility_df["maintenance_priority"].value_counts().reset_index()
+            priority_counts.columns = ["Priority", "Count"]
+
+            fig = px.bar(priority_counts, x="Priority", y="Count", title="Maintenance Priority Distribution")
+            st.plotly_chart(fig, use_container_width=True)
+
+            st.markdown("### Top Highest-Risk Assets")
+            st.dataframe(utility_df.head(25), use_container_width=True)
+
+    with tabs[4]:
+        st.subheader("Spatial Intelligence")
+        if "geoops_result" not in st.session_state:
+            st.warning("Run the assessment first.")
+        else:
+            outputs = st.session_state["geoops_result"]["outputs"]
+            hotspots_path = outputs["spatial_hotspots_csv"]
+
+            if not hotspots_path or not os.path.exists(hotspots_path):
+                st.info("No spatial hotspot output available. Dataset may not contain pressure_zone.")
+            else:
+                hotspots_df = pd.read_csv(hotspots_path)
+
+                if hotspots_df.empty:
+                    st.info("No hotspot patterns detected.")
+                else:
+                    st.markdown("### Pressure Zone Risk Hotspots")
+                    st.dataframe(hotspots_df, use_container_width=True)
+
+                    fig = px.bar(
+                        hotspots_df,
+                        x="pressure_zone",
+                        y="avg_risk_score",
+                        title="Average Utility Risk by Pressure Zone",
+                        text="avg_risk_score",
+                    )
+                    st.plotly_chart(fig, use_container_width=True)
+
+                    st.markdown("### Hotspot Insights")
+                    for insight in st.session_state["geoops_result"]["hotspot_insights"]:
+                        st.warning(insight)
+
+    with tabs[5]:
+        st.subheader("How GeoOps Fits ArcGIS Workflows")
         st.markdown(
             """
-            ### Existing Workflow
+            **Existing GIS workflow**
 
             ArcGIS Data → Manual Review → Cleanup → Delivery
 
-            ### GeoOps-Enhanced Workflow
+            **GeoOps-enhanced workflow**
 
             ArcGIS Feature Layer / CSV  
             → GeoOps Intake  
             → GeoQA Engine  
             → Readiness Scoring  
+            → Utility + Spatial Intelligence  
             → Issue Layer Export  
             → Analyst Review in ArcGIS  
 
-            ### Why This Matters
-
-            ArcGIS remains the system of record and editing environment.
-
-            GeoOps provides a separate intelligence layer that helps answer:
-
-            - Which records require review first?
-            - Which issue categories are most common?
-            - Is this dataset ready for Utility Network workflows?
-            - What should the analyst or project manager prioritize?
-            - What can be exported back as an issue layer?
+            ArcGIS remains the system of record. GeoOps provides decision intelligence around it.
             """
         )
 
-    with tab5:
+    with tabs[6]:
         st.subheader("Generated Outputs")
-
         if "geoops_result" not in st.session_state:
             st.warning("Run the assessment first.")
         else:
@@ -521,36 +458,31 @@ def main():
                             use_container_width=True,
                         )
 
-    with tab6:
+    with tabs[7]:
         st.subheader("Product Roadmap")
-
         st.markdown(
             """
             ### Phase 1 — Foundation
-            - Data Intake Engine
-            - GeoQA Engine
+            - Data Intake
+            - GeoQA
             - Readiness Scoring
-            - Reporting Engine
+            - Reporting
             - Issue Layer Export
-            - Streamlit Platform UI
 
-            ### Phase 2 — ArcGIS Integration
-            - Public Feature Layer Input
+            ### Phase 2 — Decision Intelligence
+            - Utility Intelligence
+            - Spatial Hotspots
+            - Operational Risk Summaries
+
+            ### Phase 3 — ArcGIS Integration
             - Authenticated ArcGIS Online Access
             - Hosted Issue Layer Publishing
-            - ArcGIS Dashboard Integration
-
-            ### Phase 3 — Utility Intelligence
-            - Asset risk scoring
-            - Inspection prioritization
-            - Maintenance priority ranking
-            - Budget-aware decision support
+            - Dashboard Integration
 
             ### Phase 4 — GeoOps Copilot
-            - Natural-language questions over GIS datasets
+            - Natural-language GIS analysis
             - Automated QA summaries
-            - Analyst guidance
-            - Executive reporting assistant
+            - Analyst decision assistant
             """
         )
 

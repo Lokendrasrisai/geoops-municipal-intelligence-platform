@@ -1,0 +1,501 @@
+feature_index,asset_id,utility_risk_score,maintenance_priority,age_score,condition_score,inspection_score,diameter_score,qa_issue_score,critical_issue_score,recommended_action
+170,row_170,94,Critical Priority,18,40,8,0,8,20,Immediate engineering review recommended before operational use.
+398,row_398,94,Critical Priority,18,40,8,0,8,20,Immediate engineering review recommended before operational use.
+284,row_284,86,Critical Priority,10,40,8,0,8,20,Immediate engineering review recommended before operational use.
+493,row_493,84,Critical Priority,18,30,8,0,8,20,Immediate engineering review recommended before operational use.
+332,HYD-00333,82,Critical Priority,18,40,8,12,4,0,Immediate engineering review recommended before operational use.
+56,row_56,81,Critical Priority,5,40,8,0,8,20,Immediate engineering review recommended before operational use.
+94,row_94,78,Critical Priority,18,12,8,8,12,20,Immediate engineering review recommended before operational use.
+322,row_322,78,Critical Priority,18,12,8,8,12,20,Immediate engineering review recommended before operational use.
+265,row_265,76,Critical Priority,10,30,8,0,8,20,Immediate engineering review recommended before operational use.
+37,row_37,76,Critical Priority,10,30,8,0,8,20,Immediate engineering review recommended before operational use.
+110,HYD-00111,74,High Priority,10,40,8,12,4,0,Prioritize for near-term inspection or maintenance planning.
+392,HYD-00393,73,High Priority,25,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+80,HYD-00081,73,High Priority,25,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+417,row_417,73,High Priority,18,15,8,0,12,20,Prioritize for near-term inspection or maintenance planning.
+470,HYD-00471,73,High Priority,25,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+314,HYD-00315,73,High Priority,25,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+158,HYD-00159,73,High Priority,25,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+2,HYD-00003,73,High Priority,25,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+236,HYD-00237,73,High Priority,25,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+128,HYD-00129,72,High Priority,10,40,8,0,4,10,Prioritize for near-term inspection or maintenance planning.
+379,row_379,71,High Priority,5,30,8,0,8,20,Prioritize for near-term inspection or maintenance planning.
+472,HYD-00473,71,High Priority,25,12,8,8,8,10,Prioritize for near-term inspection or maintenance planning.
+436,row_436,70,High Priority,10,12,8,8,12,20,Prioritize for near-term inspection or maintenance planning.
+85,HYD-00086,70,High Priority,18,30,8,0,4,10,Prioritize for near-term inspection or maintenance planning.
+18,row_18,69,High Priority,18,15,8,0,8,20,Prioritize for near-term inspection or maintenance planning.
+474,row_474,69,High Priority,18,15,8,0,8,20,Prioritize for near-term inspection or maintenance planning.
+246,row_246,69,High Priority,18,15,8,0,8,20,Prioritize for near-term inspection or maintenance planning.
+455,row_455,67,High Priority,5,5,25,0,12,20,Prioritize for near-term inspection or maintenance planning.
+410,HYD-00411,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+326,HYD-00327,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+151,row_151,66,High Priority,0,30,8,0,8,20,Prioritize for near-term inspection or maintenance planning.
+320,HYD-00321,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+176,HYD-00177,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+416,HYD-00417,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+254,HYD-00255,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+182,HYD-00183,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+338,HYD-00339,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+260,HYD-00261,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+248,HYD-00249,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+8,HYD-00009,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+404,HYD-00405,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+14,HYD-00015,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+476,HYD-00477,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+86,HYD-00087,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+92,HYD-00093,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+494,HYD-00495,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+242,HYD-00243,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+488,HYD-00489,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+26,HYD-00027,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+98,HYD-00099,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+482,HYD-00483,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+164,HYD-00165,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+104,HYD-00105,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+20,HYD-00021,66,High Priority,18,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+189,row_189,65,High Priority,10,15,8,0,12,20,Prioritize for near-term inspection or maintenance planning.
+208,row_208,65,High Priority,5,12,8,8,12,20,Prioritize for near-term inspection or maintenance planning.
+157,HYD-00158,63,High Priority,25,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+235,HYD-00236,63,High Priority,25,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+391,HYD-00392,63,High Priority,25,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+313,HYD-00314,63,High Priority,25,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+79,HYD-00080,63,High Priority,25,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+469,HYD-00470,63,High Priority,25,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+1,HYD-00002,63,High Priority,25,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+386,HYD-00387,62,High Priority,0,40,8,0,4,10,Prioritize for near-term inspection or maintenance planning.
+227,row_227,62,High Priority,0,5,25,0,12,20,Prioritize for near-term inspection or maintenance planning.
+343,HYD-00344,62,High Priority,10,30,8,0,4,10,Prioritize for near-term inspection or maintenance planning.
+360,row_360,61,High Priority,10,15,8,0,8,20,Prioritize for near-term inspection or maintenance planning.
+303,row_303,60,High Priority,5,15,8,0,12,20,Prioritize for near-term inspection or maintenance planning.
+171,HYD-00172,59,High Priority,18,15,8,0,8,10,Prioritize for near-term inspection or maintenance planning.
+311,HYD-00312,59,High Priority,25,5,25,0,4,0,Prioritize for near-term inspection or maintenance planning.
+467,HYD-00468,59,High Priority,25,5,25,0,4,0,Prioritize for near-term inspection or maintenance planning.
+341,row_341,59,High Priority,18,5,8,0,8,20,Prioritize for near-term inspection or maintenance planning.
+83,HYD-00084,59,High Priority,25,5,25,0,4,0,Prioritize for near-term inspection or maintenance planning.
+155,HYD-00156,59,High Priority,25,5,25,0,4,0,Prioritize for near-term inspection or maintenance planning.
+295,HYD-00296,59,High Priority,5,30,8,12,4,0,Prioritize for near-term inspection or maintenance planning.
+239,HYD-00240,59,High Priority,25,5,25,0,4,0,Prioritize for near-term inspection or maintenance planning.
+395,HYD-00396,59,High Priority,25,5,25,0,4,0,Prioritize for near-term inspection or maintenance planning.
+356,HYD-00357,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+362,HYD-00363,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+266,HYD-00267,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+200,HYD-00201,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+350,HYD-00351,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+428,HYD-00429,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+116,HYD-00117,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+188,HYD-00189,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+440,HYD-00441,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+434,HYD-00435,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+32,HYD-00033,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+184,HYD-00185,58,High Priority,18,12,8,12,8,0,Prioritize for near-term inspection or maintenance planning.
+272,HYD-00273,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+206,HYD-00207,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+422,HYD-00423,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+38,HYD-00039,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+406,HYD-00407,58,High Priority,18,12,8,12,8,0,Prioritize for near-term inspection or maintenance planning.
+344,HYD-00345,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+50,HYD-00051,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+44,HYD-00045,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+194,HYD-00195,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+278,HYD-00279,58,High Priority,10,40,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+238,HYD-00239,57,High Priority,25,12,8,8,4,0,Prioritize for near-term inspection or maintenance planning.
+160,HYD-00161,57,High Priority,25,12,8,8,4,0,Prioritize for near-term inspection or maintenance planning.
+316,HYD-00317,57,High Priority,25,12,8,8,4,0,Prioritize for near-term inspection or maintenance planning.
+4,HYD-00005,57,High Priority,25,12,8,8,4,0,Prioritize for near-term inspection or maintenance planning.
+480,HYD-00481,57,High Priority,18,15,8,12,4,0,Prioritize for near-term inspection or maintenance planning.
+394,HYD-00395,57,High Priority,25,12,8,8,4,0,Prioritize for near-term inspection or maintenance planning.
+82,HYD-00083,57,High Priority,25,12,8,8,4,0,Prioritize for near-term inspection or maintenance planning.
+258,HYD-00259,57,High Priority,18,15,8,12,4,0,Prioritize for near-term inspection or maintenance planning.
+132,row_132,56,High Priority,5,15,8,0,8,20,Prioritize for near-term inspection or maintenance planning.
+319,HYD-00320,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+337,HYD-00338,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+331,HYD-00332,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+325,HYD-00326,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+415,HYD-00416,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+19,HYD-00020,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+175,HYD-00176,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+475,HYD-00476,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+247,HYD-00248,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+253,HYD-00254,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+7,HYD-00008,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+259,HYD-00260,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+181,HYD-00182,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+487,HYD-00488,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+241,HYD-00242,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+25,HYD-00026,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+403,HYD-00404,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+397,HYD-00398,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+13,HYD-00014,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+91,HYD-00092,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+169,HYD-00170,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+97,HYD-00098,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+103,HYD-00104,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+481,HYD-00482,56,High Priority,18,30,8,0,0,0,Prioritize for near-term inspection or maintenance planning.
+443,HYD-00444,55,High Priority,5,5,25,12,8,0,Prioritize for near-term inspection or maintenance planning.
+75,row_75,55,High Priority,0,15,8,0,12,20,Prioritize for near-term inspection or maintenance planning.
+73,HYD-00074,54,Medium Priority,0,30,8,12,4,0,Review during scheduled QA or asset management update.
+212,HYD-00213,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+296,HYD-00297,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+146,HYD-00147,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+290,HYD-00291,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+302,HYD-00303,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+374,HYD-00375,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+224,HYD-00225,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+140,HYD-00141,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+218,HYD-00219,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+458,HYD-00459,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+452,HYD-00453,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+446,HYD-00447,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+62,HYD-00063,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+380,HYD-00381,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+68,HYD-00069,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+134,HYD-00135,53,Medium Priority,5,40,8,0,0,0,Review during scheduled QA or asset management update.
+167,HYD-00168,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+263,HYD-00264,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+122,HYD-00123,52,Medium Priority,0,40,8,0,4,0,Review during scheduled QA or asset management update.
+419,HYD-00420,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+315,HYD-00316,52,Medium Priority,25,15,8,0,4,0,Review during scheduled QA or asset management update.
+323,HYD-00324,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+179,HYD-00180,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+251,HYD-00252,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+471,HYD-00472,52,Medium Priority,25,15,8,0,4,0,Review during scheduled QA or asset management update.
+407,HYD-00408,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+479,HYD-00480,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+393,HYD-00394,52,Medium Priority,25,15,8,0,4,0,Review during scheduled QA or asset management update.
+95,HYD-00096,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+23,HYD-00024,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+159,HYD-00160,52,Medium Priority,25,15,8,0,4,0,Review during scheduled QA or asset management update.
+368,HYD-00369,52,Medium Priority,0,40,8,0,4,0,Review during scheduled QA or asset management update.
+3,HYD-00004,52,Medium Priority,25,15,8,0,4,0,Review during scheduled QA or asset management update.
+335,HYD-00336,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+107,HYD-00108,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+237,HYD-00238,52,Medium Priority,25,15,8,0,4,0,Review during scheduled QA or asset management update.
+11,HYD-00012,52,Medium Priority,18,5,25,0,4,0,Review during scheduled QA or asset management update.
+429,HYD-00430,51,Medium Priority,10,15,8,0,8,10,Review during scheduled QA or asset management update.
+214,HYD-00215,51,Medium Priority,5,12,8,8,8,10,Review during scheduled QA or asset management update.
+113,row_113,51,Medium Priority,10,5,8,0,8,20,Review during scheduled QA or asset management update.
+256,HYD-00257,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+496,HYD-00497,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+10,HYD-00011,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+484,HYD-00485,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+328,HYD-00329,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+22,HYD-00023,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+478,HYD-00479,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+244,HYD-00245,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+28,HYD-00029,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+490,HYD-00491,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+16,HYD-00017,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+340,HYD-00341,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+334,HYD-00335,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+88,HYD-00089,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+412,HYD-00413,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+106,HYD-00107,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+166,HYD-00167,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+100,HYD-00101,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+172,HYD-00173,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+400,HYD-00401,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+250,HYD-00251,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+178,HYD-00179,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+418,HYD-00419,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+262,HYD-00263,50,Medium Priority,18,12,8,8,4,0,Review during scheduled QA or asset management update.
+36,HYD-00037,49,Medium Priority,10,15,8,12,4,0,Review during scheduled QA or asset management update.
+271,HYD-00272,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+312,HYD-00313,48,Medium Priority,25,15,8,0,0,0,Review during scheduled QA or asset management update.
+308,HYD-00309,48,Medium Priority,0,40,8,0,0,0,Review during scheduled QA or asset management update.
+230,HYD-00231,48,Medium Priority,0,40,8,0,0,0,Review during scheduled QA or asset management update.
+349,HYD-00350,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+234,HYD-00235,48,Medium Priority,25,15,8,0,0,0,Review during scheduled QA or asset management update.
+355,HYD-00356,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+361,HYD-00362,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+369,HYD-00370,48,Medium Priority,5,15,8,12,8,0,Review during scheduled QA or asset management update.
+390,HYD-00391,48,Medium Priority,25,15,8,0,0,0,Review during scheduled QA or asset management update.
+439,HYD-00440,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+468,HYD-00469,48,Medium Priority,25,15,8,0,0,0,Review during scheduled QA or asset management update.
+283,HYD-00284,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+421,HYD-00422,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+433,HYD-00434,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+277,HYD-00278,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+464,HYD-00465,48,Medium Priority,0,40,8,0,0,0,Review during scheduled QA or asset management update.
+427,HYD-00428,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+0,HYD-00001,48,Medium Priority,25,15,8,0,0,0,Review during scheduled QA or asset management update.
+499,HYD-00500,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+199,HYD-00200,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+115,HYD-00116,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+121,HYD-00122,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+193,HYD-00194,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+78,HYD-00079,48,Medium Priority,25,15,8,0,0,0,Review during scheduled QA or asset management update.
+205,HYD-00206,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+74,HYD-00075,48,Medium Priority,0,40,8,0,0,0,Review during scheduled QA or asset management update.
+49,HYD-00050,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+127,HYD-00128,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+43,HYD-00044,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+187,HYD-00188,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+31,HYD-00032,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+147,HYD-00148,48,Medium Priority,5,15,8,12,8,0,Review during scheduled QA or asset management update.
+152,HYD-00153,48,Medium Priority,0,40,8,0,0,0,Review during scheduled QA or asset management update.
+156,HYD-00157,48,Medium Priority,25,15,8,0,0,0,Review during scheduled QA or asset management update.
+109,HYD-00110,48,Medium Priority,10,30,8,0,0,0,Review during scheduled QA or asset management update.
+42,HYD-00043,47,Medium Priority,10,15,8,0,4,10,Review during scheduled QA or asset management update.
+333,HYD-00334,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+261,HYD-00262,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+257,HYD-00258,45,Medium Priority,18,5,8,0,4,10,Review during scheduled QA or asset management update.
+339,HYD-00340,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+321,HYD-00322,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+255,HYD-00256,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+183,HYD-00184,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+165,HYD-00166,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+249,HYD-00250,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+93,HYD-00094,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+105,HYD-00106,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+21,HYD-00022,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+177,HYD-00178,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+243,HYD-00244,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+495,HYD-00496,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+87,HYD-00088,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+9,HYD-00010,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+399,HYD-00400,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+405,HYD-00406,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+411,HYD-00412,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+489,HYD-00490,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+99,HYD-00100,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+15,HYD-00016,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+477,HYD-00478,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+27,HYD-00028,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+483,HYD-00484,45,Medium Priority,18,15,8,0,4,0,Review during scheduled QA or asset management update.
+47,HYD-00048,44,Medium Priority,10,5,25,0,4,0,Review during scheduled QA or asset management update.
+35,HYD-00036,44,Medium Priority,10,5,25,0,4,0,Review during scheduled QA or asset management update.
+431,HYD-00432,44,Medium Priority,10,5,25,0,4,0,Review during scheduled QA or asset management update.
+347,HYD-00348,44,Medium Priority,10,5,25,0,4,0,Review during scheduled QA or asset management update.
+119,HYD-00120,44,Medium Priority,10,5,25,0,4,0,Review during scheduled QA or asset management update.
+275,HYD-00276,44,Medium Priority,10,5,25,0,4,0,Review during scheduled QA or asset management update.
+359,HYD-00360,44,Medium Priority,10,5,25,0,4,0,Review during scheduled QA or asset management update.
+191,HYD-00192,44,Medium Priority,10,5,25,0,4,0,Review during scheduled QA or asset management update.
+203,HYD-00204,44,Medium Priority,10,5,25,0,4,0,Review during scheduled QA or asset management update.
+289,HYD-00290,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+211,HYD-00212,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+67,HYD-00068,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+55,HYD-00056,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+145,HYD-00146,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+139,HYD-00140,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+301,HYD-00302,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+217,HYD-00218,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+451,HYD-00452,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+367,HYD-00368,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+457,HYD-00458,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+61,HYD-00062,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+373,HYD-00374,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+445,HYD-00446,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+223,HYD-00224,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+133,HYD-00134,43,Medium Priority,5,30,8,0,0,0,Review during scheduled QA or asset management update.
+112,HYD-00113,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+358,HYD-00359,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+118,HYD-00119,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+196,HYD-00197,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+352,HYD-00353,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+346,HYD-00347,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+300,HYD-00301,42,Medium Priority,5,15,8,0,4,10,Review during scheduled QA or asset management update.
+424,HYD-00425,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+430,HYD-00431,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+34,HYD-00035,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+163,HYD-00164,42,Medium Priority,0,30,8,0,4,0,Review during scheduled QA or asset management update.
+190,HYD-00191,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+202,HYD-00203,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+280,HYD-00281,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+409,HYD-00410,42,Medium Priority,0,30,8,0,4,0,Review during scheduled QA or asset management update.
+268,HYD-00269,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+274,HYD-00275,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+46,HYD-00047,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+124,HYD-00125,42,Medium Priority,10,12,8,8,4,0,Review during scheduled QA or asset management update.
+402,HYD-00403,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+342,HYD-00343,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+330,HYD-00331,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+336,HYD-00337,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+252,HYD-00253,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+108,HYD-00109,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+420,HYD-00421,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+102,HYD-00103,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+414,HYD-00415,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+96,HYD-00097,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+90,HYD-00091,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+396,HYD-00397,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+84,HYD-00085,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+408,HYD-00409,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+324,HYD-00325,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+240,HYD-00241,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+486,HYD-00487,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+498,HYD-00499,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+180,HYD-00181,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+6,HYD-00007,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+264,HYD-00265,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+168,HYD-00169,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+30,HYD-00031,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+162,HYD-00163,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+24,HYD-00025,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+318,HYD-00319,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+12,HYD-00013,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+174,HYD-00175,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+186,HYD-00187,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+492,HYD-00493,41,Medium Priority,18,15,8,0,0,0,Review during scheduled QA or asset management update.
+215,HYD-00216,39,Medium Priority,5,5,25,0,4,0,Review during scheduled QA or asset management update.
+59,HYD-00060,39,Medium Priority,5,5,25,0,4,0,Review during scheduled QA or asset management update.
+299,HYD-00300,39,Medium Priority,5,5,25,0,4,0,Review during scheduled QA or asset management update.
+371,HYD-00372,39,Medium Priority,5,5,25,0,4,0,Review during scheduled QA or asset management update.
+287,HYD-00288,39,Medium Priority,5,5,25,0,4,0,Review during scheduled QA or asset management update.
+131,HYD-00132,39,Medium Priority,5,5,25,0,4,0,Review during scheduled QA or asset management update.
+143,HYD-00144,39,Medium Priority,5,5,25,0,4,0,Review during scheduled QA or asset management update.
+5,HYD-00006,38,Medium Priority,25,5,8,0,0,0,Review during scheduled QA or asset management update.
+77,HYD-00078,38,Medium Priority,25,5,8,0,0,0,Review during scheduled QA or asset management update.
+161,HYD-00162,38,Medium Priority,25,5,8,0,0,0,Review during scheduled QA or asset management update.
+463,HYD-00464,38,Medium Priority,0,30,8,0,0,0,Review during scheduled QA or asset management update.
+233,HYD-00234,38,Medium Priority,25,5,8,0,0,0,Review during scheduled QA or asset management update.
+317,HYD-00318,38,Medium Priority,25,5,8,0,0,0,Review during scheduled QA or asset management update.
+491,HYD-00492,38,Medium Priority,0,5,25,0,8,0,Review during scheduled QA or asset management update.
+389,HYD-00390,38,Medium Priority,25,5,8,0,0,0,Review during scheduled QA or asset management update.
+229,HYD-00230,38,Medium Priority,0,30,8,0,0,0,Review during scheduled QA or asset management update.
+307,HYD-00308,38,Medium Priority,0,30,8,0,0,0,Review during scheduled QA or asset management update.
+473,HYD-00474,38,Medium Priority,25,5,8,0,0,0,Review during scheduled QA or asset management update.
+385,HYD-00386,38,Medium Priority,0,30,8,0,0,0,Review during scheduled QA or asset management update.
+423,HYD-00424,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+201,HYD-00202,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+382,HYD-00383,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+70,HYD-00071,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+376,HYD-00377,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+64,HYD-00065,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+292,HYD-00293,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+273,HYD-00274,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+279,HYD-00280,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+267,HYD-00268,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+370,HYD-00371,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+111,HYD-00112,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+45,HYD-00046,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+298,HYD-00299,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+52,HYD-00053,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+142,HYD-00143,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+460,HYD-00461,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+136,HYD-00137,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+130,HYD-00131,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+39,HYD-00040,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+148,HYD-00149,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+454,HYD-00455,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+448,HYD-00449,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+33,HYD-00034,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+123,HYD-00124,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+195,HYD-00196,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+345,HYD-00346,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+357,HYD-00358,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+351,HYD-00352,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+364,HYD-00365,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+58,HYD-00059,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+117,HYD-00118,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+220,HYD-00221,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+226,HYD-00227,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+435,HYD-00436,37,Medium Priority,10,15,8,0,4,0,Review during scheduled QA or asset management update.
+304,HYD-00305,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+442,HYD-00443,37,Medium Priority,5,12,8,8,4,0,Review during scheduled QA or asset management update.
+40,HYD-00041,36,Medium Priority,0,12,8,8,8,0,Review during scheduled QA or asset management update.
+286,HYD-00287,36,Medium Priority,0,12,8,8,8,0,Review during scheduled QA or asset management update.
+71,HYD-00072,34,Low Priority,0,5,25,0,4,0,Monitor and validate during routine data review.
+221,HYD-00222,34,Low Priority,5,5,8,12,4,0,Monitor and validate during routine data review.
+383,HYD-00384,34,Low Priority,0,5,25,0,4,0,Monitor and validate during routine data review.
+426,HYD-00427,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+48,HYD-00049,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+438,HYD-00439,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+432,HYD-00433,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+270,HYD-00271,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+126,HYD-00127,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+276,HYD-00277,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+282,HYD-00283,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+198,HYD-00199,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+114,HYD-00115,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+354,HYD-00355,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+120,HYD-00121,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+348,HYD-00349,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+192,HYD-00193,33,Low Priority,10,15,8,0,0,0,Monitor and validate during routine data review.
+129,HYD-00130,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+441,HYD-00442,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+51,HYD-00052,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+447,HYD-00448,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+213,HYD-00214,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+453,HYD-00454,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+135,HYD-00136,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+363,HYD-00364,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+459,HYD-00460,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+466,HYD-00467,32,Low Priority,0,12,8,8,4,0,Monitor and validate during routine data review.
+141,HYD-00142,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+232,HYD-00233,32,Low Priority,0,12,8,8,4,0,Monitor and validate during routine data review.
+310,HYD-00311,32,Low Priority,0,12,8,8,4,0,Monitor and validate during routine data review.
+154,HYD-00155,32,Low Priority,0,12,8,8,4,0,Monitor and validate during routine data review.
+225,HYD-00226,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+297,HYD-00298,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+291,HYD-00292,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+285,HYD-00286,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+57,HYD-00058,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+219,HYD-00220,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+388,HYD-00389,32,Low Priority,0,12,8,8,4,0,Monitor and validate during routine data review.
+207,HYD-00208,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+69,HYD-00070,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+76,HYD-00077,32,Low Priority,0,12,8,8,4,0,Monitor and validate during routine data review.
+375,HYD-00376,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+63,HYD-00064,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+381,HYD-00382,32,Low Priority,5,15,8,0,4,0,Monitor and validate during routine data review.
+185,HYD-00186,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+327,HYD-00328,31,Low Priority,0,15,8,0,8,0,Monitor and validate during routine data review.
+101,HYD-00102,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+413,HYD-00414,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+485,HYD-00486,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+29,HYD-00030,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+81,HYD-00082,31,Low Priority,0,15,8,0,8,0,Monitor and validate during routine data review.
+89,HYD-00090,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+17,HYD-00018,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+173,HYD-00174,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+497,HYD-00498,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+329,HYD-00330,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+401,HYD-00402,31,Low Priority,18,5,8,0,0,0,Monitor and validate during routine data review.
+216,HYD-00217,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+288,HYD-00289,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+378,HYD-00379,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+366,HYD-00367,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+144,HYD-00145,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+138,HYD-00139,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+222,HYD-00223,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+294,HYD-00295,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+54,HYD-00055,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+60,HYD-00061,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+210,HYD-00211,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+456,HYD-00457,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+66,HYD-00067,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+372,HYD-00373,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+444,HYD-00445,28,Low Priority,5,15,8,0,0,0,Monitor and validate during routine data review.
+204,HYD-00205,27,Low Priority,0,15,8,0,4,0,Monitor and validate during routine data review.
+153,HYD-00154,27,Low Priority,0,15,8,0,4,0,Monitor and validate during routine data review.
+309,HYD-00310,27,Low Priority,0,15,8,0,4,0,Monitor and validate during routine data review.
+231,HYD-00232,27,Low Priority,0,15,8,0,4,0,Monitor and validate during routine data review.
+450,HYD-00451,27,Low Priority,0,15,8,0,4,0,Monitor and validate during routine data review.
+387,HYD-00388,27,Low Priority,0,15,8,0,4,0,Monitor and validate during routine data review.
+465,HYD-00466,27,Low Priority,0,15,8,0,4,0,Monitor and validate during routine data review.
+353,HYD-00354,23,Low Priority,10,5,8,0,0,0,Monitor and validate during routine data review.
+437,HYD-00438,23,Low Priority,10,5,8,0,0,0,Monitor and validate during routine data review.
+281,HYD-00282,23,Low Priority,10,5,8,0,0,0,Monitor and validate during routine data review.
+197,HYD-00198,23,Low Priority,10,5,8,0,0,0,Monitor and validate during routine data review.
+72,HYD-00073,23,Low Priority,0,15,8,0,0,0,Monitor and validate during routine data review.
+384,HYD-00385,23,Low Priority,0,15,8,0,0,0,Monitor and validate during routine data review.
+425,HYD-00426,23,Low Priority,10,5,8,0,0,0,Monitor and validate during routine data review.
+306,HYD-00307,23,Low Priority,0,15,8,0,0,0,Monitor and validate during routine data review.
+269,HYD-00270,23,Low Priority,10,5,8,0,0,0,Monitor and validate during routine data review.
+125,HYD-00126,23,Low Priority,10,5,8,0,0,0,Monitor and validate during routine data review.
+150,HYD-00151,23,Low Priority,0,15,8,0,0,0,Monitor and validate during routine data review.
+462,HYD-00463,23,Low Priority,0,15,8,0,0,0,Monitor and validate during routine data review.
+228,HYD-00229,23,Low Priority,0,15,8,0,0,0,Monitor and validate during routine data review.
+41,HYD-00042,23,Low Priority,10,5,8,0,0,0,Monitor and validate during routine data review.
+209,HYD-00210,18,Low Priority,5,5,8,0,0,0,Monitor and validate during routine data review.
+65,HYD-00066,18,Low Priority,5,5,8,0,0,0,Monitor and validate during routine data review.
+449,HYD-00450,18,Low Priority,5,5,8,0,0,0,Monitor and validate during routine data review.
+137,HYD-00138,18,Low Priority,5,5,8,0,0,0,Monitor and validate during routine data review.
+365,HYD-00366,18,Low Priority,5,5,8,0,0,0,Monitor and validate during routine data review.
+293,HYD-00294,18,Low Priority,5,5,8,0,0,0,Monitor and validate during routine data review.
+53,HYD-00054,18,Low Priority,5,5,8,0,0,0,Monitor and validate during routine data review.
+377,HYD-00378,18,Low Priority,5,5,8,0,0,0,Monitor and validate during routine data review.
+245,HYD-00246,17,Low Priority,0,5,8,0,4,0,Monitor and validate during routine data review.
+149,HYD-00150,13,Routine,0,5,8,0,0,0,No immediate action required.
+461,HYD-00462,13,Routine,0,5,8,0,0,0,No immediate action required.
+305,HYD-00306,13,Routine,0,5,8,0,0,0,No immediate action required.
